@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pranavarya1601
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pranav!
+- 👀 I’m interested in python and networking
+- 🌱 I’m currently learning Linux system administrator
+- 💞️ I’m looking to collaborate on python package
+- 📫 How to reach me @Pranavarya1601
 
 <!---
 Pranavarya1601/Pranavarya1601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
